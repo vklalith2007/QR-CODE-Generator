@@ -19,7 +19,7 @@ npm packages (like qrcode) – QR code generation
 ## 🚀 How to Use
 
 1. **Clone the repository**
-git clone https://github.com/vklalith2007/QR-CODE-Generator.gi
+git clone https://github.com/vklalith2007/QR-CODE-Generator.git
 
 
 2. **Move into the project folder**
