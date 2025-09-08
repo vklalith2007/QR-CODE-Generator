@@ -16,20 +16,28 @@ Node.js – runtime environment
 
 npm packages (like qrcode) – QR code generation
 
-💻 How to Use
+## 🚀 How to Use
 
-1.Clone the repo
-git clone https://github.com/vklalith2007/QR-CODE-Generator.git
+1. **Clone the repository**
+git clone https://github.com/vklalith2007/QR-CODE-Generator.gi
 
-2. Move into the project folder
+
+2. **Move into the project folder**
 cd QR-CODE-Generator
 
-3. Install dependencies (Inquirer.js, qr-image, etc.)
+
+3. **Install dependencies**
 npm install
 
-4. Run the app
+4. **Run the application**
 node index.js
 
-5.Follow the prompt
-Enter the text or URL you want to convert into a QR code.
-The QR code will be generated and saved as an image (qr_img.png) in your project folder.
+5. **Follow the prompt**
+ - Enter the text or URL you want to convert into a QR code when prompted.
+ - The QR code will be generated and saved as **qr_img.png** in your project folder.
+
+   
+**Note:**  
+- Ensure [Node.js](https://nodejs.org/) and npm are installed on your system.
+- The output image will appear in the project directory.
+
